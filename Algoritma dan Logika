@@ -25,8 +25,6 @@ Ciri-ciri:
 3. Input (masukan)
 4. Output (keluaran)
 5. Effectiveness (efektivitas)
-Memiliki instruksi instruksi yang jelas dan tidak ambigu
-5.Harus mempunyai stopping role.
 
 Sifat:
 
@@ -56,4 +54,16 @@ Algoritma menghitung luas persegi panjang.
 3.Nilai luas adalah*lebar.
 4.Tampilkan luas.
 
+FLOWCHART
+Flowchart adalah salah satu notasi algoritma yang sering digunakan.
+Berikut adalah simbol-simbol flowchart yang sering digunakan.
+1. Terminator (permulaan/akhir program)
+2. Garis alir/flow Line (arah aliran program)
+3. Preparation (proses inisialisasi/pemberian harga awal)
+4. Proses (proses perhitungan/proses pengolahan data)
+5. Input/output data (proses input/output data, parameter, informasi
+6. Predefined process/sub program (permulaan sub program/proses menjalankan sub program)
+7. Decision (perbandingan pernyataan, penyelesaian data yang memberikan pilihan untuk langkah selanjutnya)
+8. On page connector (penghubung bagian-bagian flowchart yang berada pada satu halaman)
+9. Off page connector (penghubung bagian-bagian flowchart yang berada pada halaman berbeda.
 
