@@ -1,21 +1,30 @@
+LOGIKA
+Logika berasal dari bahasa Yunani,yaitu Logos yang 
+Berarti ilmu, logika dapat diartikan ilmu yang 
+Mengajarkan cara berpikir untuk melakukan kegiatan dengan tujuan tertentu.
+
 ALGORITMA
-Ditinjau dari asal usul katanya, kata Algoritma sendiri mempunyai sejarah
-yang aneh. Orang hanya menemukan kata Algorism yang berarti proses penghitungan dengan angka arab.
-Akhirnya para ahli sejarah matematika menemukan asal kata tersebut yang berasal dari nama penulis buku arab yang terkenal yaitu Abu Ja’far Muhammad Ibnu Musa Al-Khuwarizmi.
-Dalam bahasa indonesia, kata Algorithma diserap menjadi Algoritma.
+Algoritma berasal dari nama ilmuan Arab ahli matematika:
+Abu Ja'far Muhammad Ibnu Musa Al khawarizmi. Yang menulis
+Kitab Al jabr w'al muqabala (rules of restoration and reduction)
+Sekitar tahun 825 M. Kata Al khuwarizmi dibaca orang barat
+Algorism yang lambat laun menjadi algorithm diserap dalam bahasa Indonesia
+Algoritma. Algoritma dapat diartikan urutan penyelesaian masalah
+Yang disusun secara sistematis menggunakan bahasa yang logis
+Untuk memecahkan suatu permasalahan.
 
 Definis:
-
 1.Langkah-langkah yang dilakukan agar solusi masalah dapat diperoleh.
 2.Suatu prosedur yang merupakan urutan langkah-langkah yang berintegrasi
 3.Suatu metode khusus yang digunakan untuk menyelesaikan suatu masalah yang nyata(Webster Dictionery)
 4.Algoritma adalah langkah-langkah logis tertentu untuk menyelesaikan suatu masalah.
 
 Ciri-ciri:
-
-Ada input
-Ada proses
-Ada output
+1. Finitenes (keterbatasan)
+2. Definiteness (kepastian)
+3. Input (masukan)
+4. Output (keluaran)
+5. Effectiveness (efektivitas)
 Memiliki instruksi instruksi yang jelas dan tidak ambigu
 5.Harus mempunyai stopping role.
 
@@ -24,9 +33,16 @@ Sifat:
 1.Tidak menggunakan simbol atau sintaks dari suatu bahasa pemograman
 2.Tidak tergantung pada suatu bahasa pemograman
 3.Notasi-notasinya dapat digunakan untuk seluruh bahasa manapun.
+4.Algoritma dapat digunakan untuk mempresentasikan suatu urutan
+   Kejadian secara logis dan dapat diterapkan
+   Disemua kejadian sehari-hari
+
+Struktur dasar dalam algoritma;
+a. Runtunan
+b. Pemilihan
+c. Pengulangan
 
 Contoh kasus dalam kehidupan sehari-hari:
-
 Algoritma memasak mie instan.
 1.Rebus air hingga mendidih.
 2.Masukan mie instan ke dalam air mendidih tersebut.
@@ -39,3 +55,5 @@ Algoritma menghitung luas persegi panjang.
 2.Masukan lebar.
 3.Nilai luas adalah*lebar.
 4.Tampilkan luas.
+
+
