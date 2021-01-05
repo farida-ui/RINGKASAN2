@@ -35,6 +35,14 @@ Sifat:
    Kejadian secara logis dan dapat diterapkan
    Disemua kejadian sehari-hari
 
+Keuntungan Pembuatan algoritma;
+a. Pembuatan/penulisan algoritma tidak tergantung pada bahasa
+Pemograman manapun.
+b. Notasi algoritma dapat diterjemahkan kedalam berbagai
+bahasa pemrograman
+c. Adapun bahasa bahasa pemrograman, output yang akan
+dikeluarkan sama karena algoritma nya sama.
+
 Struktur dasar dalam algoritma;
 a. Runtunan
 b. Pemilihan
@@ -54,8 +62,16 @@ Algoritma menghitung luas persegi panjang.
 3.Nilai luas adalah*lebar.
 4.Tampilkan luas.
 
-FLOWCHART
-Flowchart adalah salah satu notasi algoritma yang sering digunakan.
+Teknik Penulisan Algoritma:
+ Ada 3 cara penulisan algoritma yaitu,
+a. Bahasa Indonesia Terstruktur (BIT)
+ Alat yang cukup efisien untuk menggambarkan algoritma
+dengan menggunakan bahasa Indonesia dimana urutan barisan
+langkah-langkah yang digunakan harus sedemikian rupa agar
+proses penyelesaian tidak terbelit-belit sedemikian
+sehingga bagian-bagian proses dapat dibedakan dengan jelas.
+b.FLOWCHART
+ Flowchart adalah salah satu notasi algoritma yang sering digunakan.
 Berikut adalah simbol-simbol flowchart yang sering digunakan.
 1. Terminator (permulaan/akhir program)
 2. Garis alir/flow Line (arah aliran program)
@@ -66,4 +82,16 @@ Berikut adalah simbol-simbol flowchart yang sering digunakan.
 7. Decision (perbandingan pernyataan, penyelesaian data yang memberikan pilihan untuk langkah selanjutnya)
 8. On page connector (penghubung bagian-bagian flowchart yang berada pada satu halaman)
 9. Off page connector (penghubung bagian-bagian flowchart yang berada pada halaman berbeda.
-
+c. Pseudocode
+ Cara penulisan algoritma yaitu menyerupai bahasa pemrograman tingkat tinggi.
+Struktur bahasa yang digunakan dalam menulis algoritma dengan cara ini
+berasal dari beberapa bahasa pemrograman, tetapi bahasa
+tersebut hanya ditujukan agar dapat dipahami oleh manusia.
+ Agar notasi pseudocode dapat dipahami oleh komputer maka harus
+diterjemahkan terlebih dahulu menjadi sintaks bahasa pemrograman
+komputer tertentu.
+ Struktur penulisan algoritma dengan notasi pseudocode sama dengan
+cara kalimat deskriptif yaitu:
+a. Judul
+b. Deklarasi
+c. Deskripsi
